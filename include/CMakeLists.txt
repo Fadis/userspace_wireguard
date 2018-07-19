@@ -1,0 +1,3 @@
+INSTALL( DIRECTORY uwg/
+  DESTINATION include/uwg/
+  FILES_MATCHING PATTERN "*.hpp" )
